@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166469683377",
+    "firebase_url": "https://optical-character-recogn-957e9.firebaseio.com",
+    "project_id": "optical-character-recogn-957e9",
+    "storage_bucket": "optical-character-recogn-957e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166469683377:android:aba4dc3057187b790efa90",
+        "android_client_info": {
+          "package_name": "com.example.opticalcharacterrecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166469683377-bvbrhtlervdo07f105kki09cuvu1qhad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcGZitMhtt6Njp25uCSU8w-DlhtSbWNmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166469683377-bvbrhtlervdo07f105kki09cuvu1qhad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
